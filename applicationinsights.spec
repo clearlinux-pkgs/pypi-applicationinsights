@@ -4,7 +4,7 @@
 #
 Name     : applicationinsights
 Version  : 0.11.9
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/f5/02/b831bf3281723b81eb6b041d91d2c219123366f975ec0a73556620773417/applicationinsights-0.11.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f5/02/b831bf3281723b81eb6b041d91d2c219123366f975ec0a73556620773417/applicationinsights-0.11.9.tar.gz
 Summary  : This project extends the Application Insights API surface to support Python.
