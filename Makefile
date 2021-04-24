@@ -1,5 +1,5 @@
 PKG_NAME := applicationinsights
-URL = https://files.pythonhosted.org/packages/f5/02/b831bf3281723b81eb6b041d91d2c219123366f975ec0a73556620773417/applicationinsights-0.11.9.tar.gz
+URL = https://files.pythonhosted.org/packages/d3/f2/46a75ac6096d60da0e71a068015b610206e697de01fa2fb5bba8564b0798/applicationinsights-0.11.10.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
